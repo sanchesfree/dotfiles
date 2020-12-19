@@ -81,6 +81,30 @@ echo 'Install ncdu'
 echo '------------'
 brew install ncdu
 
+echo 'Install htop'
+echo '------------'
+brew install htop
+
+echo 'Install mc'
+echo '------------'
+brew install mc
+
+echo 'Install nano'
+echo '------------'
+brew install nano
+
+echo 'Install jsonlint'
+echo '------------'
+brew install jsonlint
+
+echo 'Install mongodb-compass'
+echo '------------'
+brew install mongodb-compass
+
+echo 'Install youtube-dl'
+echo '------------'
+brew install youtube-dl
+
 echo 'Install hub'
 echo '-----------'
 brew install hub
